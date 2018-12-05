@@ -5,8 +5,8 @@
  ---sqlconfig.xml 配置需要查询的SQL<br/>
  ---oratestor.cpp 功能实现<br/>
  ---test.sh 执行脚本<br/>
-     -n 表示查询的次数<br/>
-     -i 表示sql id<br/>
+    <\t>-n 表示查询的次数<br/>
+     <\t>-i 表示sql id<br/>
  ---makefile 编译管理<br/>
  
  
