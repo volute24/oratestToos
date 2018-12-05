@@ -1,4 +1,4 @@
-# oratestToos
+# oratestToos工具
 测试查询数据库的性能
 
 # 1.使用说明
@@ -12,7 +12,7 @@
  
 # 2.执行结果
 start  runing  [id:1]
-excute sql costime(ms):3 ,min=3 ,max=3 ,average=3 
+excute sql costime(ms):3 ,min=3 ,max=3 ,average=3<br/>
 excute sql costime(ms):2 ,min=2 ,max=3 ,average=2 
 excute sql costime(ms):2 ,min=2 ,max=3 ,average=2 
 excute sql costime(ms):2 ,min=2 ,max=3 ,average=2 
