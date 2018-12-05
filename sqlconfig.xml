@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<sqlStatement>
+      <sqlqry sqlid="1">select *from subscription </sqlqry>
+      <test sqlid="2">select *from subscriber </test>
+      <text  sqlid="3">select *from  node</text>
+      <author sqlid="6"> select *from node</author>
+       <sqltest  sqlid="10">Hello world</sqltest>
+</sqlStatement>
