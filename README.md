@@ -6,7 +6,8 @@
  ---oratestor.cpp 功能实现<br/>
  ---test.sh 执行脚本<br/>
 >>-n 表示查询的次数 <br/>
->>-i 表示sql id   
+>>-i 表示sql id  
+
 ---makefile 编译管理<br/>
  
  
